@@ -3,9 +3,6 @@
 # <div align="center">🛰Ruby group capstone - Catalog of my things 🚀</div>
 
 # 📗 Table of Contents
-
-- [�Ruby group capstone - Catalog of my things 🚀](#ruby-group-capstone---catalog-of-my-things-)
-- [📗 Table of Contents](#-table-of-contents)
 - [📖 Ruby group capstone - Catalog of my things ](#-ruby-group-capstone---catalog-of-my-things-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
